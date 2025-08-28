@@ -1,0 +1,11 @@
+body {
+    background-color: #f8f9fa;
+}
+canvas {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    touch-action: none; /* Melhora a interação de toque */
+}
+.container {
+    max-width: 600px;
+}
